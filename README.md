@@ -22,9 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0198-house-robber) |
 | [1236-n-th-tribonacci-number](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
+## Array
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
