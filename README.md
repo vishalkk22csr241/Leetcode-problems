@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
