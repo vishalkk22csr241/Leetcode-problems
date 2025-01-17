@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0312-burst-balloons](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0368-largest-divisible-subset) |
 ## Math
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0312-burst-balloons](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0368-largest-divisible-subset) |
 ## Sorting
 |  |
