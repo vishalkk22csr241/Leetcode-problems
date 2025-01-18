@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0135-candy](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0135-candy) |
 | [0220-contains-duplicate-iii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0312-burst-balloons](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0368-largest-divisible-subset) |
@@ -55,4 +56,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
