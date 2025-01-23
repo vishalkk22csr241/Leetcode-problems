@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0312-burst-balloons) |
 | [0321-create-maximum-number](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0321-create-maximum-number) |
 | [0368-largest-divisible-subset](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0368-largest-divisible-subset) |
+| [2139-detect-squares](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/2139-detect-squares) |
 ## Math
 |  |
 | ------- |
@@ -73,4 +74,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Hash Table
+|  |
+| ------- |
+| [2139-detect-squares](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/2139-detect-squares) |
+## Design
+|  |
+| ------- |
+| [2139-detect-squares](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/2139-detect-squares) |
+## Counting
+|  |
+| ------- |
+| [2139-detect-squares](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/2139-detect-squares) |
 <!---LeetCode Topics End-->
