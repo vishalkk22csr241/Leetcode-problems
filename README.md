@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0051-n-queens) |
+| [0301-remove-invalid-parentheses](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0301-remove-invalid-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0224-basic-calculator) |
+| [0301-remove-invalid-parentheses](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0301-remove-invalid-parentheses) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0224-basic-calculator) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
