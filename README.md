@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0224-basic-calculator) |
 | [0368-largest-divisible-subset](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0368-largest-divisible-subset) |
 ## Dynamic Programming
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0224-basic-calculator](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0224-basic-calculator) |
 | [0321-create-maximum-number](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0321-create-maximum-number) |
 ## Monotonic Stack
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0224-basic-calculator) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0214-shortest-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
