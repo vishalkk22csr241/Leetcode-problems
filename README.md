@@ -86,4 +86,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2139-detect-squares](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/2139-detect-squares) |
+## String
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0214-shortest-palindrome) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
