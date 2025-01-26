@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0127-word-ladder) |
 | [2139-detect-squares](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/2139-detect-squares) |
 ## Design
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0224-basic-calculator) |
 | [0301-remove-invalid-parentheses](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0301-remove-invalid-parentheses) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0127-word-ladder) |
 | [0301-remove-invalid-parentheses](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0301-remove-invalid-parentheses) |
 ## Divide and Conquer
 |  |
