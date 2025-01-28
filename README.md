@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0220-contains-duplicate-iii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0312-burst-balloons](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0312-burst-balloons) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0169-majority-element) |
 | [0220-contains-duplicate-iii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0368-largest-divisible-subset](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0368-largest-divisible-subset) |
 ## Sliding Window
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0169-majority-element) |
 | [2139-detect-squares](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/2139-detect-squares) |
 ## Design
 |  |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0169-majority-element) |
 | [2139-detect-squares](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/2139-detect-squares) |
 ## String
 |  |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
