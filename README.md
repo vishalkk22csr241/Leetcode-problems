@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0051-n-queens](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0075-sort-colors) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0169-majority-element) |
 | [2139-detect-squares](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/2139-detect-squares) |
