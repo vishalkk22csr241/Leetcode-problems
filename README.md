@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0219-contains-duplicate-ii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0220-contains-duplicate-iii) |
 | [0312-burst-balloons](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0312-burst-balloons) |
 | [0321-create-maximum-number](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0321-create-maximum-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0220-contains-duplicate-iii) |
 ## Bucket Sort
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [2139-detect-squares](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/2139-detect-squares) |
 ## Design
 |  |
