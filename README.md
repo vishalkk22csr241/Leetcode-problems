@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0051-n-queens) |
 | [0301-remove-invalid-parentheses](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0301-remove-invalid-parentheses) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0038-count-and-say) |
 | [0127-word-ladder](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0214-shortest-palindrome) |
