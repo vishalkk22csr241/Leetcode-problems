@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0135-candy) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0127-word-ladder](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0224-basic-calculator) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0224-basic-calculator](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0224-basic-calculator) |
 ## Breadth-First Search
 |  |
