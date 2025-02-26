@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0224-basic-calculator](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0224-basic-calculator) |
 ## Breadth-First Search
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0493-reverse-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
