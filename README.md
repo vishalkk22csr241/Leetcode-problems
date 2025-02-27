@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0036-valid-sudoku](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0051-n-queens) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0127-word-ladder](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0217-contains-duplicate) |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0024-swap-nodes-in-pairs) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
