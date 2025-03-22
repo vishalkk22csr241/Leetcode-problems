@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -191,4 +192,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
