@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0321-create-maximum-number) |
 | [0368-largest-divisible-subset](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0368-largest-divisible-subset) |
 | [0493-reverse-pairs](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0493-reverse-pairs) |
+| [1063-best-sightseeing-pair](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/1063-best-sightseeing-pair) |
 | [2139-detect-squares](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/2139-detect-squares) |
 ## Math
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0312-burst-balloons](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/0368-largest-divisible-subset) |
+| [1063-best-sightseeing-pair](https://github.com/vishalkk22csr241/Leetcode-problems/tree/master/1063-best-sightseeing-pair) |
 ## Sorting
 |  |
 | ------- |
